@@ -1,0 +1,783 @@
+CRITICAL - 2022-06-14 05:45:25 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('Product_view', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('Product_view', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 05:45:55 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('Product_view', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('Product_view', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 05:46:35 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('Product_view', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('Product_view', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 05:46:36 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('Product_view', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('Product_view', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 05:46:37 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('Product_view', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('Product_view', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 05:46:37 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('Product_view', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('Product_view', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 05:46:37 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('Product_view', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('Product_view', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 05:46:37 --> syntax error, unexpected token ";", expecting "]"
+#0 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('Product_view', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('Product_view', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 06:41:25 --> Unmatched '}'
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('product')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('product')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-14 06:41:55 --> Undefined variable $row
+#0 C:\xampp\htdocs\myproject\app\Views\Product_view.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('Product_view', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\Product.php(12): view('Product_view', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-14 06:43:00 --> Attempt to read property "product_id" on array
+#0 C:\xampp\htdocs\myproject\app\Views\Product_view.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 31)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('Product_view', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\Product.php(12): view('Product_view', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-14 06:43:33 --> syntax error, unexpected token "[", expecting identifier or variable or "{" or "$"
+#0 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('Product_view', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(12): view('Product_view', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2022-06-14 06:49:13 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-06-14 06:49:13 --> Unknown column 'id' in 'where clause'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `Pr...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `Pr...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `Pr...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `Pr...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\myproject\app\Controllers\Product.php(23): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->delete('6')
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2022-06-14 06:50:00 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-06-14 06:50:00 --> Unknown column 'id' in 'where clause'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `Pr...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `Pr...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `Pr...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `Pr...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\myproject\app\Controllers\Product.php(23): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->delete('6')
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2022-06-14 06:50:01 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-06-14 06:50:01 --> Unknown column 'id' in 'where clause'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `Pr...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `Pr...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `Pr...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `Pr...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\myproject\app\Controllers\Product.php(23): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->delete('6')
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2022-06-14 06:54:41 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-06-14 06:54:41 --> Unknown column 'id' in 'where clause'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `Pr...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `Pr...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `Pr...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `Pr...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\myproject\app\Controllers\Product.php(23): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->delete('6')
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2022-06-14 06:54:43 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-06-14 06:54:43 --> Unknown column 'id' in 'where clause'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `Pr...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `Pr...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `Pr...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `Pr...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\myproject\app\Controllers\Product.php(23): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->delete('6')
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2022-06-14 06:54:43 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-06-14 06:54:43 --> Unknown column 'id' in 'where clause'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `Pr...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `Pr...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `Pr...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `Pr...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\myproject\app\Controllers\Product.php(23): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->delete('6')
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2022-06-14 06:57:59 --> syntax error, unexpected token "public", expecting end of file
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('product/delete/...')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('product/delete/...')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-06-14 06:59:23 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-06-14 06:59:23 --> Unknown column 'id' in 'where clause'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `Pr...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `Pr...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `Pr...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `Pr...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\myproject\app\Controllers\Product.php(26): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->delete('6')
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2022-06-14 07:07:39 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-06-14 07:07:39 --> Unknown column 'id' in 'where clause'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `Pr...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `Pr...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `Pr...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `Pr...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\myproject\app\Controllers\Product.php(26): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->delete('6')
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2022-06-14 07:07:40 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-06-14 07:07:40 --> Unknown column 'id' in 'where clause'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `Pr...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `Pr...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `Pr...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `Pr...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\myproject\app\Controllers\Product.php(26): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->delete('6')
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2022-06-14 07:08:29 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-06-14 07:08:29 --> Unknown column 'id' in 'where clause'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('DELETE FROM `Pr...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `Pr...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `Pr...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(2225): CodeIgniter\Database\BaseConnection->query('DELETE FROM `Pr...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(963): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\myproject\app\Controllers\Product.php(26): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->delete('6')
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2022-06-14 07:13:29 --> Declaration of App\Models\Product_model::delete($product_id) must be compatible with CodeIgniter\BaseModel::delete($id = null, bool $purge = false)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-06-14 07:14:12 --> Declaration of App\Models\Product_model::save($product_name, $product_price) must be compatible with CodeIgniter\BaseModel::save($data): bool
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-06-14 07:14:28 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:15:22 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:16:55 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:16:56 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:16:56 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:16:57 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:16:57 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:16:57 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:17:17 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:19:06 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:19:07 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:19:07 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:22:57 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:25:54 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:26:28 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 07:26:40 --> Invalid file: add.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('add', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Product.php(15): view('add', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->add_new()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2022-06-14 08:02:37 --> Table 'pos_db.datadiri' doesn't exist
+CRITICAL - 2022-06-14 08:02:37 --> Table 'pos_db.datadiri' doesn't exist
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\myproject\app\Controllers\About.php(13): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+ERROR - 2022-06-14 08:35:15 --> Column 'jeniskelamin' cannot be null
+CRITICAL - 2022-06-14 08:35:15 --> Column 'jeniskelamin' cannot be null
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\myproject\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\myproject\app\Controllers\About.php(36): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->save()
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#10 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-06-14 08:35:36 --> Column 'jeniskelamin' cannot be null
+CRITICAL - 2022-06-14 08:35:36 --> Column 'jeniskelamin' cannot be null
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\myproject\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\myproject\app\Controllers\About.php(36): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->save()
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#10 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-06-14 08:36:37 --> Column 'nohp' cannot be null
+CRITICAL - 2022-06-14 08:36:37 --> Column 'nohp' cannot be null
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\myproject\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\myproject\app\Controllers\About.php(36): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->save()
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#10 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-06-14 08:42:14 --> Duplicate entry '20753063' for key 'PRIMARY'
+CRITICAL - 2022-06-14 08:42:14 --> Duplicate entry '20753063' for key 'PRIMARY'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\myproject\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\myproject\app\Controllers\About.php(36): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->save()
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#10 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-06-14 08:53:28 --> Undefined variable $no_hp
+#0 C:\xampp\htdocs\myproject\app\Views\Edit.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 102)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('edit', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(67): view('edit', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->get_edit('20753063')
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-06-14 09:02:56 --> Duplicate entry '20753064' for key 'PRIMARY'
+CRITICAL - 2022-06-14 09:02:56 --> Duplicate entry '20753064' for key 'PRIMARY'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\myproject\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\myproject\app\Controllers\About.php(90): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->update()
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#10 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-06-14 09:04:26 --> Duplicate entry '20753064' for key 'PRIMARY'
+CRITICAL - 2022-06-14 09:04:26 --> Duplicate entry '20753064' for key 'PRIMARY'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\myproject\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\myproject\app\Controllers\About.php(90): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->update()
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#10 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-06-14 09:07:52 --> Duplicate entry '20753061' for key 'PRIMARY'
+CRITICAL - 2022-06-14 09:07:52 --> Duplicate entry '20753061' for key 'PRIMARY'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\myproject\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\myproject\app\Controllers\About.php(90): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->update()
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#10 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-06-14 09:08:43 --> Duplicate entry '20753063' for key 'PRIMARY'
+CRITICAL - 2022-06-14 09:08:43 --> Duplicate entry '20753063' for key 'PRIMARY'
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `da...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `da...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `da...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `da...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\myproject\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\myproject\app\Controllers\About.php(90): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->update()
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#10 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-06-14 09:11:22 --> Table 'ci4.product' doesn't exist
+CRITICAL - 2022-06-14 09:11:22 --> Table 'ci4.product' doesn't exist
+#0 C:\xampp\htdocs\myproject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\myproject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\myproject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\myproject\app\Controllers\Product.php(12): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Product->index()
+#8 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#9 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2022-06-14 22:58:14 --> Unmatched '}'
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-14 22:58:30 --> Class "App\Controllers\Controller" not found
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-06-14 23:01:31 --> Class "CodeIgniter\Controllers" not found
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-06-14 23:01:43 --> Class "App\Controllers\Controller" not found
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-06-14 23:05:05 --> Class "App\Controllers\Controller" not found
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-06-14 23:05:07 --> Class "App\Controllers\Controller" not found
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-06-14 23:05:07 --> Class "App\Controllers\Controller" not found
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-06-14 23:05:08 --> Class "App\Controllers\Controller" not found
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-06-14 23:05:08 --> Class "App\Controllers\Controller" not found
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-06-14 23:05:08 --> Class "App\Controllers\Controller" not found
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-06-14 23:05:08 --> Class "App\Controllers\Controller" not found
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-06-14 23:05:08 --> Class "App\Controllers\Controller" not found
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('register')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('register')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-06-14 23:06:00 --> Invalid file: register.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('register', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Register.php(13): view('register', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Register->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 23:06:23 --> Invalid file: register.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('register', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Register.php(13): view('register', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Register->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 23:06:26 --> Invalid file: register.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('register', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Register.php(13): view('register', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Register->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 23:06:26 --> Invalid file: register.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('register', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Register.php(13): view('register', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Register->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 23:06:27 --> Invalid file: register.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('register', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Register.php(13): view('register', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Register->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-14 23:06:27 --> Invalid file: register.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('register', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\Register.php(13): view('register', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\Register->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Register))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}

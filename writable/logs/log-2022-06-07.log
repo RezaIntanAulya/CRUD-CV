@@ -1,0 +1,845 @@
+CRITICAL - 2022-06-07 21:10:58 --> Invalid file: about/cv.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about/cv.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('about/cv', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\About.php(16): view('about/cv', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-07 21:11:11 --> Invalid file: about/cv.php
+#0 C:\xampp\htdocs\myproject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about/cv.php')
+#1 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('about/cv', Array, true)
+#2 C:\xampp\htdocs\myproject\app\Controllers\About.php(16): view('about/cv', Array)
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-07 21:13:46 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(11): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 21:16:09 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 21:18:24 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(12): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 21:18:25 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(12): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 21:18:25 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(12): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 21:18:26 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(12): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 21:18:27 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(12): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 21:18:29 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(12): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 21:20:29 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:20:30 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:20:30 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:20:31 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:21:13 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:21:14 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:21:14 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:21:15 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:21:15 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:21:15 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:21:15 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:33:49 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:37:11 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:37:26 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:40:37 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Data...')
+#2 C:\xampp\htdocs\myproject\app\Controllers\About.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Data...')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(809): App\Controllers\About->__construct()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-07 21:40:38 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Data...')
+#2 C:\xampp\htdocs\myproject\app\Controllers\About.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Data...')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(809): App\Controllers\About->__construct()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-07 21:40:38 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Data...')
+#2 C:\xampp\htdocs\myproject\app\Controllers\About.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Data...')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(809): App\Controllers\About->__construct()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-07 21:40:38 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Data...')
+#2 C:\xampp\htdocs\myproject\app\Controllers\About.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Data...')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(809): App\Controllers\About->__construct()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-07 21:40:55 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Data...')
+#2 C:\xampp\htdocs\myproject\app\Controllers\About.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Data...')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(809): App\Controllers\About->__construct()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-07 21:41:03 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Data...')
+#2 C:\xampp\htdocs\myproject\app\Controllers\About.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Data...')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(809): App\Controllers\About->__construct()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-07 21:41:55 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:41:56 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:41:57 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:41:57 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:41:57 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:43:45 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:43:46 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:43:46 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:43:46 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:43:47 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:44:18 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:44:19 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:44:20 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:57:20 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 21:59:11 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 21:59:12 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 21:59:13 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 21:59:13 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:29 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:30 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:30 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:31 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:31 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:31 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:31 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:31 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:31 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:31 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:32 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:32 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:32 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:32 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:32 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:32 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:00:33 --> Undefined variable $data
+#0 C:\xampp\htdocs\myproject\app\Views\cv.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 19)
+#1 C:\xampp\htdocs\myproject\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\myproject\system\Common.php(1089): CodeIgniter\View\View->render('cv', Array, true)
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(10): view('cv', Array)
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-06-07 22:06:13 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Data...')
+#2 C:\xampp\htdocs\myproject\app\Controllers\About.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Data...')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(809): App\Controllers\About->__construct()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-07 22:06:30 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Data...')
+#2 C:\xampp\htdocs\myproject\app\Controllers\About.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Data...')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(809): App\Controllers\About->__construct()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-07 22:06:31 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Data...')
+#2 C:\xampp\htdocs\myproject\app\Controllers\About.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Data...')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(809): App\Controllers\About->__construct()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-07 22:06:45 --> syntax error, unexpected token "class", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:06:47 --> syntax error, unexpected token "class", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:07:11 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:07:12 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:16:11 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:32:21 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:32:21 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:32:21 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:32:52 --> syntax error, unexpected token "class", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:32:53 --> syntax error, unexpected token "class", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:32:53 --> syntax error, unexpected token "class", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:34:17 --> syntax error, unexpected token "class", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:34:18 --> syntax error, unexpected token "class", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:34:18 --> syntax error, unexpected token "class", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:34:18 --> syntax error, unexpected token "class", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:41:11 --> syntax error, unexpected token "class", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('about')
+#1 C:\xampp\htdocs\myproject\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('about')
+#2 C:\xampp\htdocs\myproject\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-06-07 22:51:13 --> syntax error, unexpected token "/", expecting "," or ";"
+#0 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Data...')
+#2 C:\xampp\htdocs\myproject\app\Controllers\About.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Data...')
+#3 C:\xampp\htdocs\myproject\system\CodeIgniter.php(809): App\Controllers\About->__construct()
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-06-07 22:51:30 --> Class "App\Models\Models" not found
+#0 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\myproject\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Data...')
+#3 C:\xampp\htdocs\myproject\app\Controllers\About.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Data...')
+#4 C:\xampp\htdocs\myproject\system\CodeIgniter.php(809): App\Controllers\About->__construct()
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+ERROR - 2022-06-07 22:51:49 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-06-07 22:51:49 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\myproject\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\myproject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\myproject\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\myproject\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\htdocs\myproject\app\Controllers\About.php(16): CodeIgniter\BaseModel->first()
+#5 C:\xampp\htdocs\myproject\system\CodeIgniter.php(832): App\Controllers\About->index()
+#6 C:\xampp\htdocs\myproject\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#7 C:\xampp\htdocs\myproject\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\myproject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\myproject\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
